@@ -24,7 +24,7 @@
 }
 .head-des{
     font-size: 20px;
-    padding: 15px;
+    padding: 15px 0;
     color: #444343;
 }
 .btn{
@@ -46,9 +46,7 @@
 .main-side{
     margin-top: 200px;
 }
-.main-heading{
-      
-}
+
 .main-para{
     padding: 20px 0px;
 }
@@ -62,6 +60,7 @@ li{
 }
 li i{
     padding-right: 8px;
+    color: green;
 }
 
 /* body */
