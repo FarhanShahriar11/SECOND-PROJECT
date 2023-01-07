@@ -93,11 +93,11 @@ li i{
     color: green;
 }
 
-/* body */
-.bodys{
+.o{
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
+    
 }
 .first-heading{
     font-size: 35px;
@@ -105,11 +105,12 @@ li i{
 }
 .body-heading{
     padding: 60px;
+    padding-right: 40px;
 }
 .body-pic{
     display: flex;
     gap: 10px;
-    margin: 0 200px;
+    margin: 0 100px;
     margin-bottom: 20px;
    
   
@@ -117,6 +118,8 @@ li i{
 .body-img{
     width: 493.96px;
     height: 197.26px;
+    padding-left: 20px;
+    
 }
 .body-para{
     padding: 10px;
