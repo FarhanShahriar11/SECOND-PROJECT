@@ -14,13 +14,21 @@
     text-align: center;
 }
 .head{
-   padding: 180px 0;
+    width: 514px;
+    
+   margin: auto;
    text-align: right;
-   margin-right: 80px;
+   padding-left: 40%;
+   padding-top: 200px;
+  
+   
+
 }
 .head-title{
     font-size: 35px;
     font-weight: bold;
+    width: 500px;
+
 }
 .head-des{
     font-size: 20px;
